@@ -1146,33 +1146,33 @@ Challenge sites:
 - [HackerEarth](https://www.hackerearth.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Codility](https://codility.com/programmers/)
-	[X] Binary Gap 
-	[X] CyclicRotation
-	[X] OddOccurencesInArray
-	[X] PermMissingElement
-	[X] FrogJmp
-	[X] TapeEquilibrium
-	[X] PermCheck
-	[X] MissingInteger
-	[X] FrogRiverOne
-	[X] MaxCounters
-	[X] PassingCars
-	[X] CountDiv
-	[X] MinAvgTwoSlice
-	[X] GenomicRangeQuery
-	[X] Distinct
-	[X] MaxProductOfThree
-	[X] NumberOfDistinctIntersections
-	[X] Brackets
-	[X] StoneWall
-	[X] Fish
-	[X] Nesting
-	[X] Dominator
-	[X] EquiLeader
-	[X] MaxDoubleSliceSum
-	[X] CountSemiprimes
-	[X] Common-Prime-Divisors
-	[X] Ladder
+	- [X] Binary Gap 
+	- [X] CyclicRotation
+	- [X] OddOccurencesInArray
+	- [X] PermMissingElement
+	- [X] FrogJmp
+	- [X] TapeEquilibrium
+	- [X] PermCheck
+	- [X] MissingInteger
+	- [X] FrogRiverOne
+	- [X] MaxCounters
+	- [X] PassingCars
+	- [X] CountDiv
+	- [X] MinAvgTwoSlice
+	- [X] GenomicRangeQuery
+	- [X] Distinct
+	- [X] MaxProductOfThree
+	- [X] NumberOfDistinctIntersections
+	- [X] Brackets
+	- [X] StoneWall
+	- [X] Fish
+	- [X] Nesting
+	- [X] Dominator
+	- [X] EquiLeader
+	- [X] MaxDoubleSliceSum
+	- [X] CountSemiprimes
+	- [X] Common-Prime-Divisors
+	- [X] Ladder
 - [InterviewCake](https://www.interviewcake.com/)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
 - [InterviewBit](https://www.interviewbit.com/invite/icjf)

@@ -1136,6 +1136,7 @@ Challenge sites:
 	- [X] MinMaxDivision
 	- [X] NailingPlanks
 	- [X] AbsDistinct
+    - [X] MaxNonoverlappingSegments
 - [InterviewCake](https://www.interviewcake.com/)
 - [Geeks for Geeks](http://www.geeksforgeeks.org/)
 - [InterviewBit](https://www.interviewbit.com/invite/icjf)

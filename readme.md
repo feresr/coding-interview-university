@@ -656,17 +656,17 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [X] singleton
         - [X] adapter
         - [X] prototype
-        - [ ] decorator
-        - [ ] visitor
+        - [X] decorator
+        - [X] visitor
         - [ ] factory, abstract factory
         - [ ] facade
-        - [ ] observer
+        - [X] observer
         - [ ] proxy
-        - [ ] delegate
+        - [X] delegate
         - [ ] command
         - [ ] state
         - [ ] memento
-        - [ ] iterator
+        - [X] iterator
         - [ ] composite
         - [ ] flyweight
     - [ ] [Chapter 6 (Part 1) - Patterns (video)](https://youtu.be/LAP2A80Ajrg?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO&t=3344)

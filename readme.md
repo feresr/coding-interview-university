@@ -658,12 +658,12 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [X] prototype
         - [X] decorator
         - [X] visitor
-        - [ ] factory, abstract factory
-        - [ ] facade
+        - [X] factory, abstract factory
+        - [X] facade
         - [X] observer
-        - [ ] proxy
+        - [X] proxy
         - [X] delegate
-        - [ ] command
+        - [X] command
         - [ ] state
         - [ ] memento
         - [X] iterator

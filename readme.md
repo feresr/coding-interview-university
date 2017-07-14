@@ -664,8 +664,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [X] proxy
         - [X] delegate
         - [X] command
-        - [ ] state
-        - [ ] memento
+        - [x] state
+        - [x] memento
         - [X] iterator
         - [ ] composite
         - [ ] flyweight
